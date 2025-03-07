@@ -2,10 +2,11 @@
 
 ## 📝 Description  
 
-Ce projet avait pour objectif de pratiquer le **Responsive Design** à l'aide des **media queries**, tout en révisant les concepts de **box model** et de **Flexbox** abordés dans le premier projet.  
+Ce projet vise à appliquer les principes du **Responsive Design** en utilisant les **media queries** et **Flexbox**. Il permet d'explorer la manière dont une page web peut s'adapter à différentes tailles d'écran tout en maintenant une structure claire et harmonieuse.  
+
 L'objectif principal était de créer une maquette d'une page web, en utilisant uniquement **HTML** et **CSS**, et de la rendre **responsive** pour différents appareils (bureau, tablette, mobile).
 
-Le projet comprenait :  
+Le projet comprend :  
 ✅ Un **titre**  
 ✅ Un **paragraphe** avec une **liste à puces**  
 ✅ Un **formulaire** et un **bouton**  
@@ -39,21 +40,20 @@ L'objectif était de se concentrer sur la structure visuelle, sans avoir à gér
 git clone https://github.com/Sweetyamnesia/Projet-2-Responsive-Design.git
 cd Projet-2-Responsive-Design
 ```
-
-2️⃣ **Ouvrir `index.html` dans un navigateur**  
+2️⃣ **Ouvrir le fichier `index.html` dans un navigateur** (Chrome, Firefox, Edge...)  
 
 ---
 
-# 📷 Démo 
+## 🖼️ Aperçu du rendu  
 
-## 🖥️ Version Bureau
-![version bureau](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-Desktop1.jpg?raw=true)
-![version bureau](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-Desktop1.2.jpg?raw=true)
-![version bureau](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-Desktop2.jpg?raw=true)
+### 🖥️ Version Bureau  
+![version bureau](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-Desktop1.jpg?raw=true)  
+![version bureau](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-Desktop1.2.jpg?raw=true)  
+![version bureau](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-Desktop2.jpg?raw=true)  
 
-## 📱 Version Mobile
-![version mobile](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-mobile1.jpg?raw=true)
-![version mobile](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-mobile2.jpg?raw=true)
+### 📱 Version Mobile  
+![version mobile](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-mobile1.jpg?raw=true)  
+![version mobile](https://github.com/Sweetyamnesia/Projet-2-Responsive-Design/blob/main/Projet2-mobile2.jpg?raw=true)  
 
 ---
 
